@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**minimalistic startpage that combines elegance with functionality **
+**minimalistic startpage that combines elegance with functionality**
 
 ---
 
